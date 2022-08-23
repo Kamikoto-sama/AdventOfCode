@@ -1,6 +1,6 @@
 ﻿using System.IO;
 
-namespace Year2022
+namespace Year2022.Solutions
 {
     public class Day2
     {

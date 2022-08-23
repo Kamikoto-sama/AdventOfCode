@@ -1,9 +1,8 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 
-namespace Year2022
+namespace Year2022.Solutions
 {
     public class Day3
     {
